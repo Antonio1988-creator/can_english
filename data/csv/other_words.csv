@@ -1,140 +1,141 @@
-ADVERBIOS (Tiempo),now,nau,ahora
-ADVERBIOS (Tiempo),then,ðen,luego
-ADVERBIOS (Tiempo),today,tudéi,hoy
-ADVERBIOS (Tiempo),tomorrow,tomó-rou,mañana
-ADVERBIOS (Tiempo),yesterday,yé-ster-déi,ayer
-ADVERBIOS (Tiempo),soon,sun,pronto
-ADVERBIOS (Tiempo),later,léi-ter,luego
-ADVERBIOS (Tiempo),early,ér-li,temprano
-ADVERBIOS (Tiempo),late,leít,tarde
-ADVERBIOS (Tiempo),already,ól-red-i,ya
-ADVERBIOS (Tiempo),still,stíl,aún
-ADVERBIOS (Tiempo),yet,yet,aún
-ADVERBIOS (Tiempo),just,just,justo
-ADVERBIOS (Tiempo),finally,fáin-al-li,finalmente
-ADVERBIOS (Tiempo),recently,rís-nt-li,recientemente
-ADVERBIOS (Tiempo),always,ól-weis,siempre
-ADVERBIOS (Tiempo),never,né-ver,nunca
-ADVERBIOS (Tiempo),ever,é-ver,alguna vez
-ADVERBIOS (Tiempo),often,óf-en,a menudo
-ADVERBIOS (Tiempo),sometimes,sám-taims,a veces
-ADVERBIOS (Frecuencia),always,ól-weis,siempre
-ADVERBIOS (Frecuencia),usually,jú-ual-li,usualmente
-ADVERBIOS (Frecuencia),often,óf-en,a menudo
-ADVERBIOS (Frecuencia),sometimes,sám-taims,a veces
-ADVERBIOS (Frecuencia),rarely,rér-li,poco frecuentemente
-ADVERBIOS (Frecuencia),never,né-ver,nunca
-ADVERBIOS (Frecuencia),daily,deil-i,diariamente
-ADVERBIOS (Frecuencia),weekly,wi-kli,semanalmente
-ADVERBIOS (Frecuencia),monthly,mán-thli,mensualmente
-ADVERBIOS (Frecuencia),annually,án-nu-al-li,anualmente
-ADVERBIOS (Frecuencia),occasionally,okéi-sho-nal-li,ocasionalmente
-ADVERBIOS (Frecuencia),frequently,frí-kwent-li,frecuntemente
-ADVERBIOS (Frecuencia),constantly,kón-stant-li,constantemente
-ADVERBIOS (Frecuencia),regularly,ré-gu-lar-li,regularmente
-ADVERBIOS (Frecuencia),hardly,há-dli,dificilmente
-ADVERBIOS (Frecuencia),seldom,sél-dum,rara vez
-ADVERBIOS (Frecuencia),intermittently,in-tér-mí-ten-tli,intermitentemente
-ADVERBIOS (Frecuencia),repeatedly,ri-pí-ted-li, repetidamente
-ADVERBIOS (Frecuencia),every day,év-ri deí,cada día
-ADVERBIOS (Frecuencia),once,uan,una vez
-ADVERBIOS (Lugar y dirección),here,híer,aquí
-ADVERBIOS (Lugar y dirección),there,ðér,allí
-ADVERBIOS (Lugar y dirección),everywhere,év-ri-uér,todo lugar
-ADVERBIOS (Lugar y dirección),somewhere,sám-uer,lugar desconocido
-ADVERBIOS (Lugar y dirección),nowhere,nóu-uer,en ninguna parte
-ADVERBIOS (Lugar y dirección),above,abáv,encima
-ADVERBIOS (Lugar y dirección),below,bilóu,debajo
-ADVERBIOS (Lugar y dirección),inside,ín-said,adentro
-ADVERBIOS (Lugar y dirección),outside,áut-said,afuera
-ADVERBIOS (Lugar y dirección),upstairs,ap-sterz,arriba
-ADVERBIOS (Lugar y dirección),downstairs,daún-sterz,abajo
-ADVERBIOS (Lugar y dirección),forward,fór-ward,hacia adelante
-ADVERBIOS (Lugar y dirección),backward,bák-wérd,hacia atrás
-ADVERBIOS (Lugar y dirección),ahead,a-jéd,delante
-ADVERBIOS (Lugar y dirección),behind,bi-háind,atrás
-ADVERBIOS (Lugar y dirección),nearby,nír-bai,cerca
-ADVERBIOS (Lugar y dirección),far,fár,lejos
-ADVERBIOS (Lugar y dirección),away,awéi,lejos
-ADVERBIOS (Lugar y dirección),around,ar-áund,alrededor
-ADVERBIOS (Lugar y dirección),between,bi-twín,entre
-ADVERBIOS (Modo y grado),quickly,kwik-li,rápidamente
-ADVERBIOS (Modo y grado),slowly,slóu-li,despacio
-ADVERBIOS (Modo y grado),well,uel,bien
-ADVERBIOS (Modo y grado),badly,bád-li,mal
-ADVERBIOS (Modo y grado),easily,íz-ili,fácilmente
-ADVERBIOS (Modo y grado),hardly,há-dli,dificilmente
-ADVERBIOS (Modo y grado),carefully,kér-fu-li,cuidadosamente
-ADVERBIOS (Modo y grado),carelessly,kér-les-li,descuidadamente
-ADVERBIOS (Modo y grado),quietly,kwáit-li,silenciosamente
-ADVERBIOS (Modo y grado),loudly,láud-li,ruidosamente
-ADVERBIOS (Modo y grado),strongly,stróng-li,fuerzudamente
-ADVERBIOS (Modo y grado),weakly,wí-klí,debilmente
-ADVERBIOS (Modo y grado),clearly,klír-li,claramente
-ADVERBIOS (Modo y grado),roughly,róf-li,bruscamente
-ADVERBIOS (Modo y grado),softly,sof-li,suavemente
-ADVERBIOS (Modo y grado),deeply,dí-pli,profundamente
-ADVERBIOS (Modo y grado),highly,jái-li,en gran medida
-ADVERBIOS (Modo y grado),extremely,iks-trí-mli,extremadamente
-ADVERBIOS (Modo y grado),totally,tóu-tali,totalmente
-ADVERBIOS (Modo y grado),barely,bér-li,apenas
-CONJUNCIONES (Conjunciones),and,ánd,y
-CONJUNCIONES (Conjunciones),but,bat,pero
-CONJUNCIONES (Conjunciones),or,ór,o
-CONJUNCIONES (Conjunciones),so,sou,así que
-CONJUNCIONES (Conjunciones),because,bikóz,porque
-CONJUNCIONES (Conjunciones),although,ól-dóu, aunque
-CONJUNCIONES (Conjunciones),if,íf,si
-CONJUNCIONES (Conjunciones),when,juén,cuando
-CONJUNCIONES (Conjunciones),while,juáíl,mientras
-CONJUNCIONES (Conjunciones),before,bifór,antes
-CONJUNCIONES (Conjunciones),after,áfter,después
-CONJUNCIONES (Conjunciones),since,sins,desde
-CONJUNCIONES (Conjunciones),until,án-til,hasta
-CONJUNCIONES (Conjunciones),unless,án-les, a menos que
-CONJUNCIONES (Conjunciones),whereas,hué-re-az,mientras que
-CONJUNCIONES (Conjunciones),as,az,como
-CONJUNCIONES (Conjunciones),though,ðou, aunque
-CONJUNCIONES (Conjunciones),even if,í-vn if,aún si
-CONJUNCIONES (Conjunciones),even though,í-vn ðou,aunque
-CONJUNCIONES (Conjunciones),whether,ué-ðer,si
-ARTÍCULOS (Artículos y determinantes),the,ðe,el/la
-ARTÍCULOS (Artículos y determinantes),a,eiy,un/una
-ARTÍCULOS (Artículos y determinantes),an,án,un/una
-ARTÍCULOS (Artículos y determinantes),some,sam,algunos
-ARTÍCULOS (Artículos y determinantes),any,éni,cualquier
-ARTÍCULOS (Artículos y determinantes),this,ðis,este/esta
-ARTÍCULOS (Artículos y determinantes),that,ðat,ese/esa
-ARTÍCULOS (Artículos y determinantes),these,ðíz,estos/estas
-ARTÍCULOS (Artículos y determinantes),those,ðóus,esos/esas
-ARTÍCULOS (Artículos y determinantes),my,mai,mi
-ARTÍCULOS (Artículos y determinantes),your,iór,tuyo/a
-ARTÍCULOS (Artículos y determinantes),his,híz,suyo
-ARTÍCULOS (Artículos y determinantes),her,hér,suya
-ARTÍCULOS (Artículos y determinantes),its,its,suyo
-ARTÍCULOS (Artículos y determinantes),our,áur,nuestro
-ARTÍCULOS (Artículos y determinantes),their,ðeir,suyo
-ARTÍCULOS (Artículos y determinantes),few,fiú,pocos
-ARTÍCULOS (Artículos y determinantes),many,méni, muchos
-ARTÍCULOS (Artículos y determinantes),much,múch,mucho
-ARTÍCULOS (Artículos y determinantes),no,nó,ninguno
-PRONOMBRES (Pronombres),I,ái,yo
-PRONOMBRES (Pronombres),you,iu,tú
-PRONOMBRES (Pronombres),he,ji,él
-PRONOMBRES (Pronombres),she,shí,ella
-PRONOMBRES (Pronombres),it,it,eso
-PRONOMBRES (Pronombres),we,wí, nosotros/as
-PRONOMBRES (Pronombres),they,ðéi,ellos/as
-PRONOMBRES (Pronombres),me,mí,a mí
-PRONOMBRES (Pronombres),him,hím,a él
-PRONOMBRES (Pronombres),her,hér,a ella
-PRONOMBRES (Pronombres),us,ás,a nosotros
-PRONOMBRES (Pronombres),them,ðem,a ellos
-PRONOMBRES (Pronombres),mine,main,mío
-PRONOMBRES (Pronombres),yours,iórs,tuyo/a
-PRONOMBRES (Pronombres),his,híz,suyo
-PRONOMBRES (Pronombres),hers,hérs,suyo/a
-PRONOMBRES (Pronombres),ours,áurs,nuestro
-PRONOMBRES (Pronombres),theirs,ðéers,suyo
-PRONOMBRES (Pronombres),myself,maíf-self,yo mismo/a
-PRONOMBROS (Pronombres),yourself,iór-self,tú mismo/a
+Categoría,Palabra en Inglés,Pronunciación,Traducción,ID
+ADVERBIOS (Tiempo),now,nau,ahora,13000
+ADVERBIOS (Tiempo),then,ðen,luego,13001
+ADVERBIOS (Tiempo),today,tudéi,hoy,13002
+ADVERBIOS (Tiempo),tomorrow,tomó-rou,mañana,13003
+ADVERBIOS (Tiempo),yesterday,yé-ster-déi,ayer,13004
+ADVERBIOS (Tiempo),soon,sun,pronto,13005
+ADVERBIOS (Tiempo),later,léi-ter,luego,13006
+ADVERBIOS (Tiempo),early,ér-li,temprano,13007
+ADVERBIOS (Tiempo),late,leít,tarde,13008
+ADVERBIOS (Tiempo),already,ól-red-i,ya,13009
+ADVERBIOS (Tiempo),still,stíl,aún,13010
+ADVERBIOS (Tiempo),yet,yet,aún,13011
+ADVERBIOS (Tiempo),just,just,justo,13012
+ADVERBIOS (Tiempo),finally,fáin-al-li,finalmente,13013
+ADVERBIOS (Tiempo),recently,rís-nt-li,recientemente,13014
+ADVERBIOS (Tiempo),always,ól-weis,siempre,13015
+ADVERBIOS (Tiempo),never,né-ver,nunca,13016
+ADVERBIOS (Tiempo),ever,é-ver,alguna vez,13017
+ADVERBIOS (Tiempo),often,óf-en,a menudo,13018
+ADVERBIOS (Tiempo),sometimes,sám-taims,a veces,13019
+ADVERBIOS (Frecuencia),always,ól-weis,siempre,13020
+ADVERBIOS (Frecuencia),usually,jú-ual-li,usualmente,13021
+ADVERBIOS (Frecuencia),often,óf-en,a menudo,13022
+ADVERBIOS (Frecuencia),sometimes,sám-taims,a veces,13023
+ADVERBIOS (Frecuencia),rarely,rér-li,poco frecuentemente,13024
+ADVERBIOS (Frecuencia),never,né-ver,nunca,13025
+ADVERBIOS (Frecuencia),daily,deil-i,diariamente,13026
+ADVERBIOS (Frecuencia),weekly,wi-kli,semanalmente,13027
+ADVERBIOS (Frecuencia),monthly,mán-thli,mensualmente,13028
+ADVERBIOS (Frecuencia),annually,án-nu-al-li,anualmente,13029
+ADVERBIOS (Frecuencia),occasionally,okéi-sho-nal-li,ocasionalmente,13030
+ADVERBIOS (Frecuencia),frequently,frí-kwent-li,frecuentemente,13031
+ADVERBIOS (Frecuencia),constantly,kón-stant-li,constantemente,13032
+ADVERBIOS (Frecuencia),regularly,ré-gu-lar-li,regularmente,13033
+ADVERBIOS (Frecuencia),hardly,há-dli,dificilmente,13034
+ADVERBIOS (Frecuencia),seldom,sél-dum,rara vez,13035
+ADVERBIOS (Frecuencia),intermittently,in-tér-mí-ten-tli,intermitentemente,13036
+ADVERBIOS (Frecuencia),repeatedly,ri-pí-ted-li,repetidamente,13037
+ADVERBIOS (Frecuencia),every day,év-ri deí,cada día,13038
+ADVERBIOS (Frecuencia),once,uan,una vez,13039
+ADVERBIOS (Lugar y dirección),here,híer,aquí,13040
+ADVERBIOS (Lugar y dirección),there,ðér,allí,13041
+ADVERBIOS (Lugar y dirección),everywhere,év-ri-uér,todo lugar,13042
+ADVERBIOS (Lugar y dirección),somewhere,sám-uer,lugar desconocido,13043
+ADVERBIOS (Lugar y dirección),nowhere,nóu-uer,en ninguna parte,13044
+ADVERBIOS (Lugar y dirección),above,abáv,encima,13045
+ADVERBIOS (Lugar y dirección),below,bilóu,debajo,13046
+ADVERBIOS (Lugar y dirección),inside,ín-said,adentro,13047
+ADVERBIOS (Lugar y dirección),outside,áut-said,afuera,13048
+ADVERBIOS (Lugar y dirección),upstairs,ap-sterz,arriba,13049
+ADVERBIOS (Lugar y dirección),downstairs,daún-sterz,abajo,13050
+ADVERBIOS (Lugar y dirección),forward,fór-ward,hacia adelante,13051
+ADVERBIOS (Lugar y dirección),backward,bák-wérd,hacia atrás,13052
+ADVERBIOS (Lugar y dirección),ahead,a-jéd,delante,13053
+ADVERBIOS (Lugar y dirección),behind,bi-háind,atrás,13054
+ADVERBIOS (Lugar y dirección),nearby,nír-bai,cerca,13055
+ADVERBIOS (Lugar y dirección),far,fár,lejos,13056
+ADVERBIOS (Lugar y dirección),away,awéi,lejos,13057
+ADVERBIOS (Lugar y dirección),around,ar-áund,alrededor,13058
+ADVERBIOS (Lugar y dirección),between,bi-twín,entre,13059
+ADVERBIOS (Modo y grado),quickly,kwik-li,rápidamente,13060
+ADVERBIOS (Modo y grado),slowly,slóu-li,despacio,13061
+ADVERBIOS (Modo y grado),well,uel,bien,13062
+ADVERBIOS (Modo y grado),badly,bád-li,mal,13063
+ADVERBIOS (Modo y grado),easily,íz-ili,fácilmente,13064
+ADVERBIOS (Modo y grado),hardly,há-dli,dificilmente,13065
+ADVERBIOS (Modo y grado),carefully,kér-fu-li,cuidadosamente,13066
+ADVERBIOS (Modo y grado),carelessly,kér-les-li,descuidadamente,13067
+ADVERBIOS (Modo y grado),quietly,kwáit-li,silenciosamente,13068
+ADVERBIOS (Modo y grado),loudly,láud-li,ruidosamente,13069
+ADVERBIOS (Modo y grado),strongly,stróng-li,fuerzudamente,13070
+ADVERBIOS (Modo y grado),weakly,wí-klí,debilmente,13071
+ADVERBIOS (Modo y grado),clearly,klír-li,claramente,13072
+ADVERBIOS (Modo y grado),roughly,róf-li,bruscamente,13073
+ADVERBIOS (Modo y grado),softly,sof-li,suavemente,13074
+ADVERBIOS (Modo y grado),deeply,dí-pli,profundamente,13075
+ADVERBIOS (Modo y grado),highly,jái-li,en gran medida,13076
+ADVERBIOS (Modo y grado),extremely,iks-trí-mli,extremadamente,13077
+ADVERBIOS (Modo y grado),totally,tóu-tali,totalmente,13078
+ADVERBIOS (Modo y grado),barely,bér-li,apenas,13079
+CONJUNCIONES (Conjunciones),and,ánd,y,13080
+CONJUNCIONES (Conjunciones),but,bat,pero,13081
+CONJUNCIONES (Conjunciones),or,ór,o,13082
+CONJUNCIONES (Conjunciones),so,sou,así que,13083
+CONJUNCIONES (Conjunciones),because,bikóz,porque,13084
+CONJUNCIONES (Conjunciones),although,ól-dóu,aunque,13085
+CONJUNCIONES (Conjunciones),if,íf,si,13086
+CONJUNCIONES (Conjunciones),when,juén,cuando,13087
+CONJUNCIONES (Conjunciones),while,juáíl,mientras,13088
+CONJUNCIONES (Conjunciones),before,bifór,antes,13089
+CONJUNCIONES (Conjunciones),after,áfter,después,13090
+CONJUNCIONES (Conjunciones),since,sins,desde,13091
+CONJUNCIONES (Conjunciones),until,án-til,hasta,13092
+CONJUNCIONES (Conjunciones),unless,án-les,a menos que,13093
+CONJUNCIONES (Conjunciones),whereas,hué-re-az,mientras que,13094
+CONJUNCIONES (Conjunciones),as,az,como,13095
+CONJUNCIONES (Conjunciones),though,ðou,aunque,13096
+CONJUNCIONES (Conjunciones),even if,í-vn if,aún si,13097
+CONJUNCIONES (Conjunciones),even though,í-vn ðou,aunque,13098
+CONJUNCIONES (Conjunciones),whether,ué-ðer,si,13099
+ARTÍCULOS (Artículos y determinantes),the,ðe,el/la,13100
+ARTÍCULOS (Artículos y determinantes),a,eiy,un/una,13101
+ARTÍCULOS (Artículos y determinantes),an,án,un/una,13102
+ARTÍCULOS (Artículos y determinantes),some,sam,algunos,13103
+ARTÍCULOS (Artículos y determinantes),any,éni,cualquier,13104
+ARTÍCULOS (Artículos y determinantes),this,ðis,este/esta,13105
+ARTÍCULOS (Artículos y determinantes),that,ðat,ese/esa,13106
+ARTÍCULOS (Artículos y determinantes),these,ðíz,estos/estas,13107
+ARTÍCULOS (Artículos y determinantes),those,ðóus,esos/esas,13108
+ARTÍCULOS (Artículos y determinantes),my,mai,mi,13109
+ARTÍCULOS (Artículos y determinantes),your,iór,tuyo/a,13110
+ARTÍCULOS (Artículos y determinantes),his,híz,suyo,13111
+ARTÍCULOS (Artículos y determinantes),her,hér,suya,13112
+ARTÍCULOS (Artículos y determinantes),its,its,suyo,13113
+ARTÍCULOS (Artículos y determinantes),our,áur,nuestro,13114
+ARTÍCULOS (Artículos y determinantes),their,ðeir,suyo,13115
+ARTÍCULOS (Artículos y determinantes),few,fiú,pocos,13116
+ARTÍCULOS (Artículos y determinantes),many,méni,muchos,13117
+ARTÍCULOS (Artículos y determinantes),much,múch,mucho,13118
+ARTÍCULOS (Artículos y determinantes),no,nó,ninguno,13119
+PRONOMBRES (Pronombres),I,ái,yo,13120
+PRONOMBRES (Pronombres),you,iu,tú,13121
+PRONOMBRES (Pronombres),he,ji,él,13122
+PRONOMBRES (Pronombres),she,shí,ella,13123
+PRONOMBRES (Pronombres),it,it,eso,13124
+PRONOMBRES (Pronombres),we,wí,nosotros/as,13125
+PRONOMBRES (Pronombres),they,ðéi,ellos/as,13126
+PRONOMBRES (Pronombres),me,mí,a mí,13127
+PRONOMBRES (Pronombres),him,hím,a él,13128
+PRONOMBRES (Pronombres),her,hér,a ella,13129
+PRONOMBRES (Pronombres),us,ás,a nosotros,13130
+PRONOMBRES (Pronombres),them,ðem,a ellos,13131
+PRONOMBRES (Pronombres),mine,main,mío,13132
+PRONOMBRES (Pronombres),yours,iórs,tuyo/a,13133
+PRONOMBRES (Pronombres),his,híz,suyo,13134
+PRONOMBRES (Pronombres),hers,hérs,suyo/a,13135
+PRONOMBRES (Pronombres),ours,áurs,nuestro,13136
+PRONOMBRES (Pronombres),theirs,ðéers,suyo,13137
+PRONOMBRES (Pronombres),myself,maíf-self,yo mismo/a,13138
+PRONOMBROS (Pronombres),yourself,iór-self,tú mismo/a,13139

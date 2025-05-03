@@ -8,13 +8,13 @@ import os
 '''
 def procesar_csv_a_excel_por_hojas(archivo_csv, archivo_excel):
     # Leer el archivo CSV
-    df = pd.read_csv(archivo_csv, header=None, names=["Categoría", "Inglés", "Pronunciación", "Traducción"])
+    df = pd.read_csv(archivo_csv, header=None, names=["Categoría", "Inglés", "Pronunciación", "Traducción", "ID"])
     
     # Crear un diccionario para agrupar las filas por la primera columna (Categoría)
     hojas = {}
     for categoria, grupo in df.groupby("Categoría"):
         # Crear un DataFrame para cada categoría con las columnas requeridas
-        hoja = grupo[["Inglés", "Pronunciación", "Traducción"]].copy()
+        hoja = grupo[["ID", "Inglés", "Pronunciación", "Traducción"]].copy()  # Incluir la columna ID
         hoja["Visualización"] = ""  # Añadir la columna vacía
         # Limpiar el nombre de la hoja eliminando caracteres no válidos
         nombre_hoja = re.sub(r'[\\/*?:\[\]]', '', categoria)[:31]  # Limitar a 31 caracteres
@@ -25,7 +25,7 @@ def procesar_csv_a_excel_por_hojas(archivo_csv, archivo_excel):
         for nombre_hoja, contenido in hojas.items():
             contenido.to_excel(writer, sheet_name=nombre_hoja, index=False)
 
-# Lista de tus archivos CSV y los nombres para los archivos Excel de salida
+# Lista de los archivos CSV y los nombres para los archivos Excel de salida
 archivos_csv = [
     'csv/especif_words.csv',
     'csv/nom_adj.csv',
