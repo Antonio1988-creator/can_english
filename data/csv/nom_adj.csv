@@ -1,0 +1,300 @@
+En el hogar,table,téibol,mesa
+En el hogar,chair,cher,silla
+En el hogar,bed,bed,cama
+En el hogar,window,uín-dou,ventana
+En el hogar,door,dor,puerta
+En el hogar,lamp,lamp,lámpara
+En el hogar,sofa,sóufa,sofá
+En el hogar,kitchen,kíchin,cocina
+En el hogar,bathroom,báz-rum,baño
+En el hogar,mirror,míror,espejo
+En el hogar,floor,flor,piso/suelo
+En el hogar,ceiling,sí-ling,techo
+En el hogar,wall,uol,pared
+En el hogar,fridge,fridg,refrigerador
+En el hogar,oven,óven,horno
+En el hogar,sink,sink,fregadero
+En el hogar,towel,tá-uel,toalla
+En el hogar,pillow,pí-lou,almohada
+En el hogar,blanket,blán-ket,manta
+En el hogar,drawer,drór,cajón
+En la ciudad,street,strit,calle
+En la ciudad,building,bíl-ding,edificio
+En la ciudad,traffic,trá-fik,tráfico
+En la ciudad,light,lait,luz/semáforo
+En la ciudad,crosswalk,krós-uok,paso de peatones
+En la ciudad,sidewalk,sáid-uok,acera
+En la ciudad,park,park,parque
+En la ciudad,car,kar,coche
+En la ciudad,bus,bos,autobús
+En la ciudad,train,trein,tren
+En la ciudad,subway,sáb-uei,metro
+En la ciudad,taxi,ták-si,taxi
+En la ciudad,corner,kór-ner,esquina
+En la ciudad,shop,shop,tienda
+En la ciudad,mall,mol,centro comercial
+En la ciudad,school,skul,escuela
+En la ciudad,hospital,hós-pi-tal,hospital
+En la ciudad,station,stéi-shon,estación
+En la ciudad,bridge,bridg,puente
+En la ciudad,square,skuér,plaza
+Naturaleza,tree,tri,árbol
+Naturaleza,river,rí-ver,río
+Naturaleza,mountain,máun-ten,montaña
+Naturaleza,lake,leik,lago
+Naturaleza,sea,sii,mar
+Naturaleza,forest,fó-rest,bosque
+Naturaleza,hill,jil,colina
+Naturaleza,beach,bich,playa
+Naturaleza,rock,rok,roca
+Naturaleza,sand,sand,arena
+Naturaleza,cloud,claud,nube
+Naturaleza,rain,rein,lluvia
+Naturaleza,sun,son,sol
+Naturaleza,moon,mun,luna
+Naturaleza,star,star,estrella
+Naturaleza,wind,uuind,viento
+Naturaleza,snow,snou,nieve
+Naturaleza,storm,storm,tormenta
+Naturaleza,leaf,lif,hoja
+Naturaleza,flower,flá-uer,flor
+Escuela / trabajo,book,buk,libro
+Escuela / trabajo,notebook,nóut-buk,cuaderno
+Escuela / trabajo,pencil,pén-sil,lápiz
+Escuela / trabajo,pen,pen,bolígrafo
+Escuela / trabajo,eraser,i-réi-ser,borrador
+Escuela / trabajo,paper,péi-per,papel
+Escuela / trabajo,folder,fól-der,carpeta
+Escuela / trabajo,desk,desk,escritorio
+Escuela / trabajo,computer,kom-piú-ter,computadora
+Escuela / trabajo,screen,skrin,pantalla
+Escuela / trabajo,keyboard,kí-bord,teclado
+Escuela / trabajo,mouse,maus,ratón
+Escuela / trabajo,printer,prín-ter,impresora
+Escuela / trabajo,document,dók-iu-ment,documento
+Escuela / trabajo,report,ri-port,reporte
+Escuela / trabajo,task,task,tarea
+Escuela / trabajo,exam,eg-zám,examen
+Escuela / trabajo,class,klas,clase
+Escuela / trabajo,project,pró-yect,proyecto
+Escuela / trabajo,boss,bos,jefe
+Cuerpo humano,head,hed,cabeza
+Cuerpo humano,face,feis,cara
+Cuerpo humano,hair,her,cabello
+Cuerpo humano,eye,ai,ojo
+Cuerpo humano,nose,nous,nariz
+Cuerpo humano,mouth,mauz,boca
+Cuerpo humano,ear,ir,oreja
+Cuerpo humano,neck,nek,cuello
+Cuerpo humano,shoulder,shól-der,hombro
+Cuerpo humano,arm,arm,brazo
+Cuerpo humano,hand,jand,mano
+Cuerpo humano,finger,fín-ger,dedo
+Cuerpo humano,chest,chest,pecho
+Cuerpo humano,stomach,stó-mak,estómago
+Cuerpo humano,leg,leg,pierna
+Cuerpo humano,knee,ni,rodilla
+Cuerpo humano,foot,fut,pie
+Cuerpo humano,toe,tou,dedo del pie
+Cuerpo humano,skin,skin,piel
+Cuerpo humano,heart,jart,corazón
+Comida y bebida,water,uó-ter,agua
+Comida y bebida,bread,bred,pan
+Comida y bebida,milk,milk,leche
+Comida y bebida,juice,llus,jugo
+Comida y bebida,apple,á-pel,manzana
+Comida y bebida,banana,ba-ná-na,plátano
+Comida y bebida,meat,mit,carne
+Comida y bebida,chicken,chí-ken,pollo
+Comida y bebida,rice,rais,arroz
+Comida y bebida,pasta,pás-ta,pasta
+Comida y bebida,soup,sup,sopa
+Comida y bebida,fish,fish,pescado
+Comida y bebida,cheese,chis,queso
+Comida y bebida,egg,eg,huevo
+Comida y bebida,salad,sá-lad,ensalada
+Comida y bebida,coffee,kó-fi,café
+Comida y bebida,tea,ti,té
+Comida y bebida,sugar,shú-gar,azúcar
+Comida y bebida,salt,solt,sal
+Comida y bebida,oil,oil,aceite
+Tecnología básica,phone,foun,teléfono
+Tecnología básica,computer,kom-piú-ter,computadora
+Tecnología básica,screen,skrin,pantalla
+Tecnología básica,charger,chár-dyer,cargador
+Tecnología básica,battery,bá-te-ri,batería
+Tecnología básica,keyboard,kí-bord,teclado
+Tecnología básica,mouse,maus,ratón
+Tecnología básica,monitor,mó-ni-tor,monitor
+Tecnología básica,laptop,láp-top,portátil
+Tecnología básica,cable,kéi-bul,cable
+Tecnología básica,button,bó-ton,botón
+Tecnología básica,speaker,spí-ker,altavoz
+Tecnología básica,camera,ká-me-ra,cámara
+Tecnología básica,app,ap,aplicación
+Tecnología básica,signal,síg-nal,señal
+Tecnología básica,file,fail,archivo
+Tecnología básica,folder,fól-der,carpeta
+Tecnología básica,message,mé-sich,mensaje
+Tecnología básica,email,í-meil,correo electrónico
+Tecnología básica,password,pás-uord,contraseña
+Ropa y accesorios,shirt,shert,camisa
+Ropa y accesorios,pants,pants,pantalones
+Ropa y accesorios,jacket,llá-ket,chaqueta
+Ropa y accesorios,coat,kout,abrigo
+Ropa y accesorios,shoes,shus,zapatos
+Ropa y accesorios,boots,buts,botas
+Ropa y accesorios,socks,soks,calcetines
+Ropa y accesorios,hat,jat,sombrero
+Ropa y accesorios,cap,kap,gorra
+Ropa y accesorios,scarf,skarf,bufanda
+Ropa y accesorios,gloves,glovs,guantes
+Ropa y accesorios,belt,belt,cinturón
+Ropa y accesorios,tie,tai,corbata
+Ropa y accesorios,watch,uoch,reloj (de pulsera)
+Ropa y accesorios,bag,bag,bolsa
+Ropa y accesorios,purse,pors,bolso
+Ropa y accesorios,sunglasses,sán-glas-es,gafas de sol
+Ropa y accesorios,dress,dres,vestido
+Ropa y accesorios,skirt,skert,falda
+Ropa y accesorios,hoodie,jú-di,sudadera con capucha
+Transporte,car,kar,coche
+Transporte,bus,bos,autobús
+Transporte,bike,baik,bicicleta
+Transporte,train,trein,tren
+Transporte,plane,plein,avión
+Transporte,boat,bout,barco
+Transporte,truck,trok,camión
+Transporte,scooter,skú-ter,patinete
+Transporte,subway,sáb-uei,metro
+Transporte,taxi,ták-si,taxi
+Transporte,van,van,furgoneta
+Transporte,driver,drai-ver,conductor
+Transporte,passenger,pá-sen-dyer,pasajero
+Transporte,road,roud,carretera
+Transporte,wheel,uuil,rueda
+Transporte,engine,én-dyin,motor
+Transporte,seat,sit,asiento
+Transporte,ticket,tí-ket,billete
+Transporte,station,stéi-shon,estación
+Transporte,map,map,mapa
+Abstractos comunes,time,taim,tiempo
+Abstractos comunes,day,dei,día
+Abstractos comunes,night,nait,noche
+Abstractos comunes,week,uuik,semana
+Abstractos comunes,month,monz,mes
+Abstractos comunes,year,yir,año
+Abstractos comunes,life,laif,vida
+Abstractos comunes,death,dez,muerte
+Abstractos comunes,love,lov,amor
+Abstractos comunes,hate,jeit,odio
+Abstractos comunes,idea,ai-dí-a,idea
+Abstractos comunes,truth,truz,verdad
+Abstractos comunes,lie,lai,mentira
+Abstractos comunes,chance,chans,oportunidad
+Abstractos comunes,luck,lok,suerte
+Abstractos comunes,dream,drim,sueño (aspiracional)
+Abstractos comunes,goal,goul,meta
+Abstractos comunes,fear,fir,miedo
+Abstractos comunes,hope,joup,esperanza
+Abstractos comunes,need,nid,necesidad
+Tamaño y forma,big,big,grande
+Tamaño y forma,small,smol,pequeño
+Tamaño y forma,tall,tol,alto
+Tamaño y forma,short,short,corto/bajo
+Tamaño y forma,wide,uaid,ancho
+Tamaño y forma,narrow,ná-rou,estrecho
+Tamaño y forma,long,long,largo
+Tamaño y forma,tiny,tái-ni,minúsculo
+Tamaño y forma,huge,jiudg,enorme
+Tamaño y forma,round,raund,redondo
+Tamaño y forma,square,skuér,cuadrado
+Tamaño y forma,flat,flat,plano
+Tamaño y forma,thin,zin,fino/delgado
+Tamaño y forma,thick,zik,grueso
+Tamaño y forma,deep,dip,profundo
+Tamaño y forma,shallow,shá-lou,poco profundo
+Tamaño y forma,straight,streit,recto
+Tamaño y forma,curved,korvd,curvado
+Tamaño y forma,sharp,sharp,afilado
+Tamaño y forma,soft,soft,suave
+Color y apariencia,red,red,rojo
+Color y apariencia,blue,blu,azul
+Color y apariencia,green,grin,verde
+Color y apariencia,yellow,yé-lou,amarillo
+Color y apariencia,black,blak,negro
+Color y apariencia,white,uaít,blanco
+Color y apariencia,gray,grei,gris
+Color y apariencia,brown,braun,marrón
+Color y apariencia,pink,pink,rosa
+Color y apariencia,orange,ó-ranch,naranja
+Color y apariencia,purple,pér-pl,morado
+Color y apariencia,bright,brait,brillante
+Color y apariencia,dark,dark,oscuro
+Color y apariencia,shiny,shái-ni,reluciente
+Color y apariencia,pale,peil,pálido
+Color y apariencia,colorful,ká-lor-ful,colorido
+Color y apariencia,dull,dol,apagado
+Color y apariencia,clean,klin,limpio
+Color y apariencia,dirty,dér-ti,sucio
+Color y apariencia,neat,nit,ordenado
+Estado físico,hot,jot,caliente
+Estado físico,cold,kould,frío
+Estado físico,warm,uorm,tibio
+Estado físico,cool,kul,fresco
+Estado físico,wet,uet,mojado
+Estado físico,dry,drai,seco
+Estado físico,full,ful,lleno
+Estado físico,empty,ém-ti,vacío
+Estado físico,broken,bró-ken,roto
+Estado físico,fixed,fikst,arreglado
+Estado físico,heavy,jé-vi,pesado
+Estado físico,light,lait,ligero
+Estado físico,noisy,nói-zi,ruidoso
+Estado físico,quiet,kuái-et,silencioso
+Estado físico,smooth,smu-z,suave
+Estado físico,rough,rof,áspero
+Estado físico,open,óu-pen,abierto
+Estado físico,closed,kloust,cerrado
+Estado físico,tight,tait,apretado
+Estado físico,loose,lus,suelto
+Personalidad y emociones,happy,já-pi,feliz
+Personalidad y emociones,sad,sad,triste
+Personalidad y emociones,angry,án-gri,enojado
+Personalidad y emociones,kind,kaind,amable
+Personalidad y emociones,mean,min,malo/mezquino
+Personalidad y emociones,friendly,frend-li,amigable
+Personalidad y emociones,rude,rud,grosero
+Personalidad y emociones,shy,shai,tímido
+Personalidad y emociones,brave,breiv,valiente
+Personalidad y emociones,scared,skerd,asustado
+Personalidad y emociones,calm,kalm,tranquilo
+Personalidad y emociones,nervous,nér-ves,nervioso
+Personalidad y emociones,lazy,léi-zi,perezoso
+Personalidad y emociones,active,ák-tiv,activo
+Personalidad y emociones,polite,po-láit,educado
+Personalidad y emociones,honest,ó-nest,honesto
+Personalidad y emociones,generous,llé-ne-ros,generoso
+Personalidad y emociones,jealous,llé-los,celoso
+Personalidad y emociones,funny,fá-ni,divertido
+Personalidad y emociones,serious,sí-ri-es,serio
+Calidad o valor,good,gud,bueno
+Calidad o valor,bad,bad,malo
+Calidad o valor,excellent,ék-se-lent,excelente
+Calidad o valor,terrible,té-ri-bl,terrible
+Calidad o valor,useful,iús-ful,útil
+Calidad o valor,useless,iús-les,inútil
+Calidad o valor,valuable,vál-iu-abl,valioso
+Calidad o valor,cheap,chip,barato
+Calidad o valor,expensive,eks-pén-siv,caro
+Calidad o valor,important,im-por-tant,importante
+Calidad o valor,necessary,né-se-se-ri,necesario
+Calidad o valor,simple,sím-pl,sencillo
+Calidad o valor,complex,kom-pléks,complejo
+Calidad o valor,strong,strong,fuerte
+Calidad o valor,weak,uuik,débil
+Calidad o valor,smart,smart,inteligente
+Calidad o valor,dumb,domb,tonto
+Calidad o valor,clean,klin,limpio
+Calidad o valor,safe,seif,seguro
+Calidad o valor,dangerous,déin-ller-os,peligroso

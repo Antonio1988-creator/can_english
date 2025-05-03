@@ -1,0 +1,200 @@
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),build,bíld,construir
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),run,ran,correr
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),test, tést,probar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),deploy,dí-ploy,desplegar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),commit,kó-mit,confirmar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),push,púsh,pulsar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),pull,púl,extraer
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),debug,dí-bág,depurar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),code,kóud,codificar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),compile,kóm-pail,compilar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),execute,ég-zé-kiut,ejecutar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),refactor,ri-fá-ktor,refactorizar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),import,ím-pórt,importar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),export,ék-spórt,exportar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),render,rénder,representar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),crash,krásh,fallar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),update,áp-deit,actualizar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),install,ín-stól,instalar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),uninstall,án-ín-stól,desinstalar
+VERBOS COMUNES EN DESARROLLO (Verbos comunes),clone,klóun,clonar
+SUSTANTIVOS CLAVE (Sustantivos),function,fánk-shon,función
+SUSTANTIVOS CLAVE (Sustantivos),variable,vá-ri-á-bul,variable
+SUSTANTIVOS CLAVE (Sustantivos),array,ar-réi,arreglo
+SUSTANTIVOS CLAVE (Sustantivos),string,stri-ng,cadena
+SUSTANTIVOS CLAVE (Sustantivos),object,ób-dyect, objeto
+SUSTANTIVOS CLAVE (Sustantivos),number,nám-ber,número
+SUSTANTIVOS CLAVE (Sustantivos),boolean,bú-li-an,booleano
+SUSTANTIVOS CLAVE (Sustantivos),loop,lúp,bucle
+SUSTANTIVOS CLAVE (Sustantivos),condition,kon-dí-shon,condición
+SUSTANTIVOS CLAVE (Sustantivos),parameter,pá-ramé-ter,parámetro
+SUSTANTIVOS CLAVE (Sustantivos),argument,ár-gyu-ment,argumento
+SUSTANTIVOS CLAVE (Sustantivos),return,ri-térn,devolver
+SUSTANTIVOS CLAVE (Sustantivos),class,klás,clase
+SUSTANTIVOS CLAVE (Sustantivos),method,mé-thod,método
+SUSTANTIVOS CLAVE (Sustantivos),scope,skóup,alcance
+SUSTANTIVOS CLAVE (Sustantivos),event,ivént,evento
+SUSTANTIVOS CLAVE (Sustantivos),callback,kól-bák,función de retorno
+SUSTANTIVOS CLAVE (Sustantivos),constant,kón-stant,constante
+SUSTANTIVOS CLAVE (Sustantivos),type,táip,tipo
+SUSTANTIVOS CLAVE (Sustantivos),operator,ó-peré- tor,operador
+ADJETIVOS TÉCNICOS (Adjetivos),static,stá-tik,estático
+ADJETIVOS TÉCNICOS (Adjetivos),dynamic,dái-ná-mik, dinámico
+ADJETIVOS TÉCNICOS (Adjetivos),async,é- sínk,asíncrono
+ADJETIVOS TÉCNICOS (Adjetivos),synchronous,sín-kro-nas,síncrono
+ADJETIVOS TÉCNICOS (Adjetivos),global,glóu-bul,global
+ADJETIVOS TÉCNICOS (Adjetivos),local,lóu-kal,local
+ADJETIVOS TÉCNICOS (Adjetivos),mutable,mjú-te-bul,mutable
+ADJETIVOS TÉCNICOS (Adjetivos),immutable,im-mjú-te-bul,inmutable
+ADJETIVOS TÉCNICOS (Adjetivos),clean,klín,límpio
+ADJETIVOS TÉCNICOS (Adjetivos),reusable,ri-ús-e-bul,reutilizable
+ADJETIVOS TÉCNICOS (Adjetivos),readable,rí-da-bul,legible
+ADJETIVOS TÉCNICOS (Adjetivos),scalable,skéi-la-bul,escalable
+ADJETIVOS TÉCNICOS (Adjetivos),portable,pór-te-bul,portátil
+ADJETIVOS TÉCNICOS (Adjetivos),modular,mó-yi-u-lar,modular
+ADJETIVOS TÉCNICOS (Adjetivos),secure,si-kiúr,seguro
+ADJETIVOS TÉCNICOS (Adjetivos),fast,fáest,rápido
+ADJETIVOS TÉCNICOS (Adjetivos),lightweight,láit-wéit,liviano
+ADJETIVOS TÉCNICOS (Adjetivos),custom,kás-tom,personalizado
+ADJETIVOS TÉCNICOS (Adjetivos),default,dí-fólt,por defecto
+ADJETIVOS TÉCNICOS (Adjetivos),strict,stríkt,estricto
+PALABRAS DE ESTRUCTURA (Palabras),if,íf,si
+PALABRAS DE ESTRUCTURA (Palabras),else,éls,otro
+PALABRAS DE ESTRUCTURA (Palabras),switch,swí-ch,cambiar
+PALABRAS DE ESTRUCTURA (Palabras),case,keis,caso
+PALABRAS DE ESTRUCTURA (Palabras),while,juáíl,mientras
+PALABRAS DE ESTRUCTURA (Palabras),for,fór,para
+PALABRAS DE ESTRUCTURA (Palabras),break,bréik,romper
+PALABRAS DE ESTRUCTURA (Palabras),continue,kón-tin-iu,continuar
+PALABRAS DE ESTRUCTURA (Palabras),return,ri-térn,devolver
+PALABRAS DE ESTRUCTURA (Palabras),try,trái,intentar
+PALABRAS DE ESTRUCTURA (Palabras),catch,ká-ch,capturar
+PALABRAS DE ESTRUCTURA (Palabras),finally,fáin-al-li,finalmente
+PALABRAS DE ESTRUCTURA (Palabras),throw,thró,lanzar
+PALABRAS DE ESTRUCTURA (Palabras),async,é-sínk,asíncrono
+PALABRAS DE ESTRUCTURA (Palabras),await,á-weít,esperar
+PALABRAS DE ESTRUCTURA (Palabras),yield,yíld,devolver
+PALABRAS DE ESTRUCTURA (Palabras),import,ím-pórt,importar
+PALABRAS DE ESTRUCTURA (Palabras),export,ék-spórt,exportar
+PALABRAS DE ESTRUCTURA (Palabras),let,let,dejar
+PALABRAS DE ESTRUCTURA (Palabras),const,kónst,constante
+MÉTODOS COMUNES JS (Métodos),push,púsh,pulsar
+MÉTODOS COMUNES JS (Métodos),pop,póp,sacar
+MÉTODOS COMUNES JS (Métodos),shift,shíft,mover
+MÉTODOS COMUNES JS (Métodos),unshift,án-shíft,incluir
+MÉTODOS COMUNES JS (Métodos),map,map,ordenar
+MÉTODOS COMUNES JS (Métodos),filter,fíl-ter,filtrar
+MÉTODOS COMUNES JS (Métodos),reduce,ri-djú-s, reducir
+MÉTODOS COMUNES JS (Métodos),find,fáind,encontrar
+MÉTODOS COMUNES JS (Métodos),includes,ín-klúd,contener
+MÉTODOS COMUNES JS (Métodos),slice,sláis,cortar
+MÉTODOS COMUNES JS (Métodos),splice,spáisl,cortar
+MÉTODOS COMUNES JS (Métodos),concat,kón-kat,concatenar
+MÉTODOS COMUNES JS (Métodos),join,yoín,juntar
+MÉTODOS COMUNES JS (Métodos),sort,sórt,ordenar
+MÉTODOS COMUNES JS (Métodos),indexOf,áin-dex-óf,índice de
+MÉTODOS COMUNES JS (Métodos),toString,tú-stríng,a cadena
+MÉTODOS COMUNES JS (Métodos),parse,párs,parsear
+MÉTODOS COMUNES JS (Métodos),stringify,stríngui-fai,convertir a cadena
+MÉTODOS COMUNES JS (Métodos),bind,báind,vincular
+MÉTODOS COMUNES JS (Métodos),call,kól,llamar
+OBJETOS Y CLASES (Objetos y clases),object,ób-dyect, objeto
+OBJETOS Y CLASES (Objetos y clases),class,klás,clase
+OBJETOS Y CLASES (Objetos y clases),prototype,próu-to-táip,prototipo
+OBJETOS Y CLASES (Objetos y clases),constructor,kon-strúk-tor,constructor
+OBJETOS Y CLASES (Objetos y clases),instance,ín-stan-s,instancia
+OBJETOS Y CLASES (Objetos y clases),method,mé-thod,método
+OBJETOS Y CLASES (Objetos y clases),property,pró-pé-rti,propiedad
+OBJETOS Y CLASES (Objetos y clases),inheritance,in-hé-ri-tans,herencia
+OBJETOS Y CLASES (Objetos y clases),super,sú-per,sobrecargar
+OBJETOS Y CLASES (Objetos y clases),this,ðis,este
+OBJETOS Y CLASES (Objetos y clases),new,njú, nuevo
+OBJETOS Y CLASES (Objetos y clases),extends,iks-téndz,extiende
+OBJETOS Y CLASES (Objetos y clases),static,stá-tik,estático
+OBJETOS Y CLASES (Objetos y clases),public,pú-blic,público
+OBJETOS Y CLASES (Objetos y clases),private,práiv-et,privado
+OBJETOS Y CLASES (Objetos y clases),protected,pro-tékt-ed,protegido
+OBJETOS Y CLASES (Objetos y clases),interface,ín-té-rfeis,interfaz
+OBJETOS Y CLASES (Objetos y clases),module,mó-diul,módulo
+OBJETOS Y CLASES (Objetos y clases),package,pák-ij,paquete
+OBJETOS Y CLASES (Objetos y clases),namespace,néim-speis,espacio de nombres
+TERMINAL Y GIT (Terminal y Git),git,git,git
+TERMINAL Y GIT (Terminal y Git),commit,kó-mit,confirmar
+TERMINAL Y GIT (Terminal y Git),push,púsh,pulsar
+TERMINAL Y GIT (Terminal y Git),pull,púl,extraer
+TERMINAL Y GIT (Terminal y Git),branch,brán-ch,rama
+TERMINAL Y GIT (Terminal y Git),merge,mérdch,unir
+TERMINAL Y GIT (Terminal y Git),rebase,ri-béis,rebase
+TERMINAL Y GIT (Terminal y Git),clone,klóun,clonar
+TERMINAL Y GIT (Terminal y Git),init,ín-it,inicializar
+TERMINAL Y GIT (Terminal y Git),status,stá-tus,estado
+TERMINAL Y GIT (Terminal y Git),log,lóg,registro
+TERMINAL Y GIT (Terminal y Git),diff,díf,diferencia
+TERMINAL Y GIT (Terminal y Git),checkout,chék-áut,cambiar
+TERMINAL Y GIT (Terminal y Git),fetch,féch,obtener
+TERMINAL Y GIT (Terminal y Git),origin,ó-rí-din,origen
+TERMINAL Y GIT (Terminal y Git),remote,ri-móut,remoto
+TERMINAL Y GIT (Terminal y Git),conflict,kón-flíkt,conflicto
+TERMINAL Y GIT (Terminal y Git),tag,tág,etiquetar
+TERMINAL Y GIT (Terminal y Git),stash,stásh,guardar
+TERMINAL Y GIT (Terminal y Git),revert,ri-vért,revertir
+DESARROLLO WEB (Desarrollo web),html,éich-ti-em-el,html
+DESARROLLO WEB (Desarrollo web),css,sí-es-es,css
+DESARROLLO WEB (Desarrollo web),js,jéi-es,javascript
+DESARROLLO WEB (Desarrollo web),dom,dí-ó-em,dom
+DESARROLLO WEB (Desarrollo web),api,éi-pí-ai,api
+DESARROLLO WEB (Desarrollo web),json,déi-so-en, json
+DESARROLLO WEB (Desarrollo web),ajax,éiyáks,ajax
+DESARROLLO WEB (Desarrollo web),fetch,féch,obtener
+DESARROLLO WEB (Desarrollo web),request,ri-kue-st,solicitud
+DESARROLLO WEB (Desarrollo web),response,ri-spóns,respuesta
+DESARROLLO WEB (Desarrollo web),header,jéder,cabecera
+DESARROLLO WEB (Desarrollo web),body,bó-di,cuerpo
+DESARROLLO WEB (Desarrollo web),form,fórm,formulario
+DESARROLLO WEB (Desarrollo web),input,ín-put,entrada
+DESARROLLO WEB (Desarrollo web),button,bát-ton,botón
+DESARROLLO WEB (Desarrollo web),submit,sab-mít,enviar
+DESARROLLO WEB (Desarrollo web),link,li-nk,enlace
+DESARROLLO WEB (Desarrollo web),route,rout,ruta
+DESARROLLO WEB (Desarrollo web),template,té-mpléit,plantilla
+DESARROLLO WEB (Desarrollo web),component,kómpo-nent,componente
+ERRORES Y DEPURACIÓN (Errores y depuración),bug,bág,error
+ERRORES Y DEPURACIÓN (Errores y depuración),error,ér-ror,error
+ERRORES Y DEPURACIÓN (Errores y depuración),crash,krásh,falla
+ERRORES Y DEPURACIÓN (Errores y depuración),fix,fíks,arreglar
+ERRORES Y DEPURACIÓN (Errores y depuración),trace,tréjs,rastro
+ERRORES Y DEPURACIÓN (Errores y depuración),warning,wór-ning,advertencia
+ERRORES Y DEPURACIÓN (Errores y depuración),fail,féil,falla
+ERRORES Y DEPURACIÓN (Errores y depuración),issue,í-shu,problema
+ERRORES Y DEPURACIÓN (Errores y depuración),test,tést,probar
+ERRORES Y DEPURACIÓN (Errores y depuración),log,lóg,registro
+ERRORES Y DEPURACIÓN (Errores y depuración),throw,thró,lanzar
+ERRORES Y DEPURACIÓN (Errores y depuración),catch,ká-ch,capturar
+ERRORES Y DEPURACIÓN (Errores y depuración),breakpoint,brék-póint,punto de interrupción
+ERRORES Y DEPURACIÓN (Errores y depuración),stack,sták,pila
+ERRORES Y DEPURACIÓN (Errores y depuración),debugger,dí-bág-er,depurador
+ERRORES Y DEPURACIÓN (Errores y depuración),report,ri-pórt,reporte
+ERRORES Y DEPURACIÓN (Errores y depuración),recover,ri-có-ver,recuperar
+ERRORES Y DEPURACIÓN (Errores y depuración),retry,ri-trái,reintentar
+ERRORES Y DEPURACIÓN (Errores y depuración),timeout,táim-áut,tiempo de espera
+ERRORES Y DEPURACIÓN (Errores y depuración),reject,ri-dyect,rechazar
+SOFT Y HARD SKILLS (Habilidades),agile,áy-díl,ágil
+SOFT Y HARD SKILLS (Habilidades),scrum,skrám,scrum
+SOFT Y HARD SKILLS (Habilidades),sprint,sprínt,sprint
+SOFT Y HARD SKILLS (Habilidades),backlog,bák-lóg,backlog
+SOFT Y HARD SKILLS (Habilidades),review,ri-víu,revisión
+SOFT Y HARD SKILLS (Habilidades),planning,plá-ning,planificación
+SOFT Y HARD SKILLS (Habilidades),refactor,ri-fá-ktor,refactorizar
+SOFT Y HARD SKILLS (Habilidades),scalable,skéi-la-bul,escalable
+SOFT Y HARD SKILLS (Habilidades),responsive,ri-spón-siv,responsivo
+SOFT Y HARD SKILLS (Habilidades),modular,mó-di-ular,modular
+SOFT Y HARD SKILLS (Habilidades),versioned,vér-shon-d,versionado
+SOFT Y HARD SKILLS (Habilidades),documented,dó-kiú-men-ted,documentado
+SOFT Y HARD SKILLS (Habilidades),maintainable,meín-tei-ná-bul,mantenible
+SOFT Y HARD SKILLS (Habilidades),performance,per-fór-mans,desempeño
+SOFT Y HARD SKILLS (Habilidades),deadline,déd-láin,fecha límite
+SOFT Y HARD SKILLS (Habilidades),feedback, fídbák,retroalimentación
+SOFT Y HARD SKILLS (Habilidades),release,ri-lís,relevo
+SOFT Y HARD SKILLS (Habilidades),deploy,dí-ploy,desplegar
+SOFT Y HARD SKILLS (Habilidades),teamwork,tím-wérk,trabajo en equipo
+SOFT Y HARD SKILLS (Habilidades),mentor,mén-tor,mentor

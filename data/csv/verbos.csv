@@ -1,0 +1,298 @@
+Movimiento físico,go,gou,ir
+Movimiento físico,come,com,venir
+Movimiento físico,run,ron,correr
+Movimiento físico,walk,uok,caminar
+Movimiento físico,leave,liiv,salir
+Movimiento físico,arrive,aráiv,llegar
+Movimiento físico,move,muuv,mover
+Movimiento físico,jump,yomp,saltar
+Movimiento físico,fly,flai,volar
+Movimiento físico,drive,draiv,conducir
+Movimiento físico,ride,raid,cabalgar/montar
+Movimiento físico,crawl,krol,arrastrarse
+Movimiento físico,climb,klaim,escalar
+Movimiento físico,step,step,pisar
+Movimiento físico,slide,eslaid,deslizar
+Movimiento físico,roll,roul,rodar
+Movimiento físico,swim,suim,nadar
+Movimiento físico,fall,fol,caer
+Movimiento físico,stand,stand,estar de pie
+Movimiento físico,sit,sit,sentarse
+Rutina diaria,wake,ueik,despertar
+Rutina diaria,sleep,slip,dormir
+Rutina diaria,eat,iit,comer
+Rutina diaria,drink,driink,beber
+Rutina diaria,brush,brosh,cepillar
+Rutina diaria,shower,sháuer,ducharse
+Rutina diaria,get,guet,conseguir
+Rutina diaria,dress,dres,vestirse
+Rutina diaria,cook,kuk,cocinar
+Rutina diaria,clean,klin,limpiar
+Rutina diaria,wash,uosh,lavar
+Rutina diaria,dry,drai,secar
+Rutina diaria,open,oupn,abrir
+Rutina diaria,close,klous,cerrar
+Rutina diaria,take,teik,tomar
+Rutina diaria,put,put,poner
+Rutina diaria,make,meik,hacer
+Rutina diaria,turn,tern,girar
+Rutina diaria,start,start,empezar
+Rutina diaria,stop,stop,parar
+Mentales,think,zink,pensar
+Mentales,know,nou,saber
+Mentales,understand,anderstend,entender
+Mentales,remember,rimémber,recordar
+Mentales,forget,forguet,olvidar
+Mentales,believe,bilíiv,creer
+Mentales,imagine,imáyin,imaginar
+Mentales,guess,ges,adivinar
+Mentales,consider,konsíder,considerar
+Mentales,decide,disáid,decidir
+Mentales,learn,lern,aprender
+Mentales,realize,ríalais,darse cuenta
+Mentales,focus,fóukas,enfocar
+Mentales,plan,plan,planear
+Mentales,expect,ekspékt,esperar (esperanza)
+Mentales,suppose,sapóus,suponer
+Mentales,doubt,daut,dudar
+Mentales,notice,nóutis,notar
+Mentales,recognize,rékognais,reconocer
+Mentales,wonder,uónder,preguntarse
+Comunicación,say,sei,decir
+Comunicación,tell,tel,contar
+Comunicación,ask,ask,preguntar
+Comunicación,answer,ánser,responder
+Comunicación,talk,tok,hablar
+Comunicación,speak,spik,hablar (formal)
+Comunicación,discuss,diskás,discutir
+Comunicación,explain,ekspléin,explicar
+Comunicación,shout,shaut,gritar
+Comunicación,whisper,uísper,susurrar
+Comunicación,call,kol,llamar
+Comunicación,reply,riplái,responder
+Comunicación,mention,ménshon,mencionar
+Comunicación,promise,prómis,prometer
+Comunicación,agree,agrí,estar de acuerdo
+Comunicación,admit,admít,admitir
+Comunicación,argue,arguiu,discutir (pelear)
+Comunicación,complain,kempléin,quejarse
+Comunicación,suggest,saguést,sugerir
+Comunicación,announce,anáuns,anunciar
+Percepción,see,sii,ver
+Percepción,look,luk,mirar
+Percepción,watch,uoch,observar
+Percepción,hear,jir,oír
+Percepción,listen,lisen,escuchar
+Percepción,smell,smel,oler
+Percepción,taste,teist,probar
+Percepción,touch,toch,tocar
+Percepción,feel,fiil,sentir
+Percepción,notice,nóutis,notar
+Percepción,observe,obzérv,observar
+Percepción,detect,ditékt,detectar
+Percepción,glance,glans,echar un vistazo
+Percepción,stare,ster,mirar fijamente
+Percepción,peek,pik,espiar
+Percepción,perceive,persíiv,percibir
+Percepción,sense,sens,presenciar
+Percepción,view,viu,ver (visualizar)
+Percepción,scan,skan,escanear
+Percepción,examine,igzámin,examinar
+Manipulación física,hold,jold,sostener
+Manipulación física,grab,grab,agarrar
+Manipulación física,pick,pik,escoger
+Manipulación física,throw,zrou,lanzar
+Manipulación física,catch,kach,atrapar
+Manipulación física,push,push,empujar
+Manipulación física,pull,pul,tirar
+Manipulación física,break,breik,romper
+Manipulación física,cut,kat,cortar
+Manipulación física,hit,jit,golpear
+Manipulación física,press,pres,presionar
+Manipulación física,squeeze,skuís,apretar
+Manipulación física,twist,tuist,torcer
+Manipulación física,shake,sheik,sacudir
+Manipulación física,drop,drop,soltar
+Manipulación física,lift,lift,levantar
+Manipulación física,pour,por,verter
+Manipulación física,stretch,strech,estirar
+Manipulación física,tie,tai,atar
+Manipulación física,wrap,rap,envolver
+Estado / existencia,be,bi,ser/estar
+Estado / existencia,have,jav,tener
+Estado / existencia,exist,egzíst,existir
+Estado / existencia,seem,siim,parecer
+Estado / existencia,stay,stei,quedarse
+Estado / existencia,live,liv,vivir
+Estado / existencia,remain,riméin,permanecer
+Estado / existencia,become,bikám,llegar a ser
+Estado / existencia,belong,bilóng,pertenecer
+Estado / existencia,depend,dipénd,depender
+Estado / existencia,consist,konsíst,consistir
+Estado / existencia,appear,apír,aparecer
+Estado / existencia,occur,okúr,ocurrir
+Estado / existencia,happen,jápen,suceder
+Estado / existencia,rest,rest,descansar
+Estado / existencia,contain,kontéin,contener
+Estado / existencia,include,inklúid,incluir
+Estado / existencia,own,oun,poseer
+Estado / existencia,possess,posés,poseer
+Emocionales,like,laik,gustar
+Emocionales,love,lov,amar
+Emocionales,hate,jeit,odiar
+Emocionales,enjoy,inyói,disfrutar
+Emocionales,prefer,prifér,preferir
+Emocionales,miss,mis,extrañar
+Emocionales,fear,fir,temer
+Emocionales,worry,uári,preocuparse
+Emocionales,care,ker,importar
+Emocionales,feel,fiil,sentir
+Emocionales,need,nid,necesitar
+Emocionales,desire,disáir,desear
+Emocionales,appreciate,apríshieit,apreciar
+Emocionales,envy,énvi,envidiar
+Emocionales,trust,trast,confiar
+Emocionales,respect,rispékt,respetar
+Emocionales,value,váluiu,valorar
+Emocionales,regret,rigrét,lamentar
+Emocionales,admire,admáir,admirar
+Emocionales,forgive,forguív,perdonar
+Cuerpo,breathe,brid,respirar
+Cuerpo,blink,blink,parpadear
+Cuerpo,sweat,suet,sudar
+Cuerpo,cry,krai,llorar
+Cuerpo,cough,kof,toser
+Cuerpo,sneeze,snis,estornudar
+Cuerpo,yawn,ion,bostezar
+Cuerpo,swallow,suálou,tragar
+Cuerpo,scratch,skrach,rascar
+Cuerpo,nod,nod,asentir
+Cuerpo,stretch,strech,estirarse
+Cuerpo,bend,bend,doblar
+Cuerpo,shiver,shíver,tiritar
+Cuerpo,sniff,snif,olfatear
+Cuerpo,smile,smail,sonreír
+Cuerpo,frown,fraun,fruncir el ceño
+Cuerpo,touch,toch,tocar
+Cuerpo,kick,kik,patear
+Cuerpo,rub,rab,frotar
+Aprendizaje / trabajo,study,stádi,estudiar
+Aprendizaje / trabajo,learn,lern,aprender
+Aprendizaje / trabajo,teach,tich,enseñar
+Aprendizaje / trabajo,train,trein,entrenar
+Aprendizaje / trabajo,test,test,probar
+Aprendizaje / trabajo,examine,igzámin,examinar
+Aprendizaje / trabajo,work,uork,trabajar
+Aprendizaje / trabajo,manage,mánidy,administrar
+Aprendizaje / trabajo,lead,lid,liderar
+Aprendizaje / trabajo,follow,fólou,seguir
+Aprendizaje / trabajo,organize,orgánais,organizar
+Aprendizaje / trabajo,plan,plan,planear
+Aprendizaje / trabajo,prepare,pripér,preparar
+Aprendizaje / trabajo,help,jelp,ayudar
+Aprendizaje / trabajo,support,sapórt,apoyar
+Aprendizaje / trabajo,build,bild,construir
+Aprendizaje / trabajo,develop,divélop,desarrollar
+Aprendizaje / trabajo,create,kriéit,crear
+Aprendizaje / trabajo,analyze,análais,analizar
+Aprendizaje / trabajo,improve,imprúuv,mejorar
+Hogar,cook,kuk,cocinar
+Hogar,clean,klin,limpiar
+Hogar,wash,uosh,lavar
+Hogar,sweep,suip,barrer
+Hogar,mop,mop,trapear
+Hogar,vacuum,vákium,aspirar
+Hogar,tidy,táidi,ordenar
+Hogar,fix,fiks,arreglar
+Hogar,iron,áirn,planchar
+Hogar,sew,sou,coser
+Hogar,water,uóter,regar
+Hogar,plant,plant,plantar
+Hogar,paint,peint,pintar
+Hogar,decorate,dékoreit,decorar
+Hogar,store,stor,almacenar
+Hogar,repair,ripér,reparar
+Hogar,arrange,aréindy,organizar
+Hogar,fold,fold,doblar
+Hogar,hang,jang,colgar
+Hogar,scrub,skrob,restregar
+Viaje,travel,trável,viajar
+Viaje,drive,draiv,conducir
+Viaje,fly,flai,volar
+Viaje,sail,seil,navegar
+Viaje,ride,raid,cabalgar/montar
+Viaje,board,bord,abordar
+Viaje,depart,dipárt,partir
+Viaje,arrive,aráiv,llegar
+Viaje,land,land,aterrizar
+Viaje,park,park,estacionar
+Viaje,guide,gaid,guiar
+Viaje,pack,pak,empacar
+Viaje,unpack,anpák,desempacar
+Viaje,explore,eksplór,explorar
+Viaje,reserve,risérv,reservar
+Viaje,check,chek,revisar
+Viaje,wait,ueit,esperar
+Viaje,carry,kári,llevar
+Viaje,transport,transpórt,transportar
+Viaje,return,ritérn,volver
+Sociales,meet,mit,conocer
+Sociales,greet,grit,saludar
+Sociales,invite,inváit,invitar
+Sociales,join,yoin,unirse
+Sociales,visit,vísit,visitar
+Sociales,host,jost,recibir
+Sociales,attend,aténd,asistir
+Sociales,celebrate,sélebreit,celebrar
+Sociales,chat,chat,charlar
+Sociales,flirt,flert,coquetear
+Sociales,date,deit,salir (cita)
+Sociales,marry,mári,casarse
+Sociales,hug,jog,abrazar
+Sociales,kiss,kis,besar
+Sociales,argue,arguiu,discutir
+Sociales,agree,agrí,estar de acuerdo
+Sociales,apologize,apólodchais,disculparse
+Sociales,congratulate,kongráchuleit,felicitar
+Sociales,joke,youk,bromear
+Sociales,share,sher,compartir
+Cambio,change,cheindch,cambiar
+Cambio,grow,grou,crecer
+Cambio,improve,imprúuv,mejorar
+Cambio,develop,divélop,desarrollar
+Cambio,become,bikám,llegar a ser
+Cambio,transform,transfórm,transformar
+Cambio,adapt,adápt,adaptar
+Cambio,evolve,ivólv,evolucionar
+Cambio,switch,suich,cambiar
+Cambio,upgrade,apgréid,actualizar
+Cambio,update,apdéit,actualizar
+Cambio,move,muuv,mover
+Cambio,replace,ripléis,reemplazar
+Cambio,fix,fiks,arreglar
+Cambio,adjust,adchást,ajustar
+Cambio,rise,rais,aumentar
+Cambio,fall,fol,caer
+Cambio,reduce,ridiús,reducir
+Cambio,increase,inkrís,aumentar
+Cambio,simplify,símplifai,simplificar
+Verbos compuestos comunes,get up,guet ap,levantarse
+Verbos compuestos comunes,turn on,turn on,encender
+Verbos compuestos comunes,turn off,turn off,apagar
+Verbos compuestos comunes,look for,luk for,buscar
+Verbos compuestos comunes,look after,luk áfter,cuidar
+Verbos compuestos comunes,take off,teik off,quitarse
+Verbos compuestos comunes,put on,put on,ponerse
+Verbos compuestos comunes,find out,faind aut,descubrir
+Verbos compuestos comunes,give up,guiv ap,rendirse
+Verbos compuestos comunes,go on,gou on,continuar
+Verbos compuestos comunes,come back,com bac,volver
+Verbos compuestos comunes,check out,chek aut,verificar
+Verbos compuestos comunes,set up,set ap,configurar
+Verbos compuestos comunes,break down,breik daun,romperse
+Verbos compuestos comunes,log in,log in,iniciar sesión
+Verbos compuestos comunes,log out,log aut,cerrar sesión
+Verbos compuestos comunes,fill in,fil in,rellenar
+Verbos compuestos comunes,run out,ron aut,agotarse
+Verbos compuestos comunes,get in,guet in,entrar
+Verbos compuestos comunes,show up,shou ap,aparecer
