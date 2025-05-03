@@ -20,9 +20,12 @@ def procesar_csv_a_excel_por_hojas(archivo_csv, archivo_excel):
         nombre_hoja = re.sub(r'[\\/*?:\[\]]', '', categoria)[:31]  # Limitar a 31 caracteres
         hojas[nombre_hoja] = hoja
 
-    # Escribir las hojas en un archivo Excel
+    # Ordenar las hojas por el menor ID dentro de cada categoría
+    hojas_ordenadas = sorted(hojas.items(), key=lambda item: item[1]["ID"].min())
+
+    # Escribir las hojas en un archivo Excel en orden por ID
     with pd.ExcelWriter(archivo_excel, engine="openpyxl") as writer:
-        for nombre_hoja, contenido in hojas.items():
+        for nombre_hoja, contenido in hojas_ordenadas:
             contenido.to_excel(writer, sheet_name=nombre_hoja, index=False)
 
 # Lista de los archivos CSV y los nombres para los archivos Excel de salida
