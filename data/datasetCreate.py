@@ -2,6 +2,10 @@ import pandas as pd
 import re
 import os
 
+'''
+    Este archivo procesa los datos de los archivos CSV y los convierte a Excel.
+    
+'''
 def procesar_csv_a_excel_por_hojas(archivo_csv, archivo_excel):
     # Leer el archivo CSV
     df = pd.read_csv(archivo_csv, header=None, names=["Categoría", "Inglés", "Pronunciación", "Traducción"])
@@ -22,8 +26,18 @@ def procesar_csv_a_excel_por_hojas(archivo_csv, archivo_excel):
             contenido.to_excel(writer, sheet_name=nombre_hoja, index=False)
 
 # Lista de tus archivos CSV y los nombres para los archivos Excel de salida
-archivos_csv = ['nom_adj.csv', 'otras.csv', 'programac.csv', 'verbos.csv']
-archivos_excel = ['nom_adj.xlsx', 'otras.xlsx', 'programac.xlsx', 'verbos.xlsx']
+archivos_csv = [
+    'csv/especif_words.csv',
+    'csv/nom_adj.csv',
+    'csv/other_words.csv',
+    'csv/verbs.csv'
+]
+archivos_excel = [
+    'excel/especif_words.xlsx',
+    'excel/nom_adj.xlsx',
+    'excel/other_words.xlsx',
+    'excel/verbs.xlsx'
+]
 
 # Procesar cada archivo CSV y generar su respectivo archivo Excel
 for archivo_csv, archivo_excel in zip(archivos_csv, archivos_excel):
